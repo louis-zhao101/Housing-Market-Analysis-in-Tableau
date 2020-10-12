@@ -1,2 +1,2 @@
 # Housing-Market-Analysis-in-Tableau
-Final for an upper division management course at UCLA. Uses Tableau to construct analysis and visualizations for 2010 US Census Data.
+Final for MGMT 180, an upper division Management course at UCLA. Uses Tableau to construct analysis and visualizations for 2015 US Census Data.
